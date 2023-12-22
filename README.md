@@ -1,7 +1,22 @@
-# Tauri + React
+# This a project to build a notepad app for desktop
 
-This template should help get you started developing with Tauri and React in Vite.
+This will be a simple project which can be used to take down notes in an app for desktop
 
-## Recommended IDE Setup
+## Stack used
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- React (For frontend)
+- Tailwind (For UI styling)
+- Tauri (For desktop build)
+- Rust (planned to use in the comming time for the backend purpose)
+
+## Features planned
+
+- Options to add bold, italics and basic styling of text
+- Add images to the file.
+- Adding code blocks
+- Ability to save the file.
+- Have a root structure of the files create in the main folder.
+
+### Screenshot
+
+![Screenshot of the first look of the software which is being built. ](./githubImages/v1.0.png)
