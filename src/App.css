@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --textColor: #dde6ed;
+  --editorColor: #27374d;
+  --fileStructureColor: #526d82;
+}
+
+.coolors {
+  color: #dde6ed;
+}
+
+.mainEditor {
+  background-color: var(--editorColor);
+  color: var(--textColor);
+}
+
+.fileStructure {
+  background-color: var(--fileStructureColor);
+}

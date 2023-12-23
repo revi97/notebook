@@ -17,6 +17,13 @@ This will be a simple project which can be used to take down notes in an app for
 - Ability to save the file.
 - Have a root structure of the files create in the main folder.
 
+### Colors selection
+
+- 27374D
+- 526D82
+- 9DB2BF
+- DDE6ED
+
 ### Screenshot
 
 ![Screenshot of the first look of the software which is being built. ](./githubImages/v1.0.png)

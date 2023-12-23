@@ -6,12 +6,8 @@ import FileStructure from "./components/FileStructure";
 import Maineditor from "./components/Maineditor";
 
 function App() {
-  async function greet() {
-    setGreetMsg(await invoke("greet", { name }));
-  }
-
   return (
-    <div className="flex-row flex text-black rounded-none bg-white">
+    <div className="flex-row flex text-black rounded-none coolors ">
       <FileStructure />
       <Maineditor />
     </div>

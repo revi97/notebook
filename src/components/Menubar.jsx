@@ -27,8 +27,6 @@ export default function Menubar() {
           <i className="ri-list-unordered"></i>
         </button>
       </div>
-
-      <button className="hover:bg-slate-400 w-1/7 mr-24">Save</button>
     </div>
   );
 }
